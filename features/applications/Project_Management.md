@@ -30,6 +30,13 @@ This granular kind of task management lets organizations gain better control ove
 As each Case acts as a documented trail of work, it ensures that team members, stakeholders, and managers can see who did what and when. 
 This supports auditability and accountability.
 
+Every Case has its owner, level of priority, and development log. 
+As ERP.net is a social ERP, Cases always have a Discussion tab —  a built-in chat channel linked to each individual Case. 
+Several temporary statuses reflect the stage of the work. 
+There might be some Cases Hierarchy too. 
+
+__More: What you need to know about Cases__
+
 
 
 ___
