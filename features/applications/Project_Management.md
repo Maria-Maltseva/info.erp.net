@@ -15,6 +15,8 @@ In Agile Project Management, the core operational unit is “Cases”.
 A Case represents a tightly focused, manageable piece of work within the broader project.
 It functions as a dynamic work log that tracks the progress of a specific task from initiation to closure.
 
+![ERP.net__Project_Management_Cases_interface](Agile_PM_Cases_01.webp)
+
 ## The main tool: Cases
 
 Each Case serves as a living document, capturing updates, decisions, and changes as the task advances. 
