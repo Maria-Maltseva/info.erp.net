@@ -80,11 +80,11 @@ It reduces reliance on external tools (like email or messaging apps), centralize
 Every case has several consequent statuses that reflect the stage of work on the specific task. 
 These statuses are called States:
 
-Backlog –> Consider –> Ready –> In progress –> Waiting –> Resolved –> Closed
+*Backlog –> Consider –> Ready –> In progress –> Waiting –> Resolved –> Closed*
 
 The user can change back and forward between these statuses.
 
-The <span style="color: green;">__Backlog__</span> gives the start of the Case; it usually contains the initial information - description of a task/problem/request, reasoning, possibly some imagery, author (owner).
+The __Backlog__ gives the start of the Case; it usually contains the initial information - description of a task/problem/request, reasoning, possibly some imagery, author (owner).
 
 The __Consider__ phase is the phase for evaluation: gathering additional information, surveying, detailing, testing, etc. 
 This is usually done by some kind of responsible person or supervisor.
