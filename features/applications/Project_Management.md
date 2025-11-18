@@ -35,7 +35,7 @@ As ERP.net is a social ERP, Cases always have a Discussion tab —  a built-in c
 Several temporary statuses reflect the stage of the work. 
 There might be some Cases Hierarchy too. 
 
-__More: What you need to know about Cases__
+__More: What you need to know about [Cases](ERPnet_Project_Management_Cases_Detailed.md)__
 
 
 
