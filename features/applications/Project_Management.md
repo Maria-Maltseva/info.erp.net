@@ -64,9 +64,7 @@ A type of projects is NOT a particular project.
 A type of project is a __fundamental category__ of projects according to the internal taxonomy of activities at the organization.
 
 *E.g. a project type at a marketing agency could be: campaign launch, social media strategy, website redesign, etc.*
-
 *Project Types at a bank could be: mobile app development, regulatory compliance update, loan process enhancement, etc.*
-
 *Every company is supposed to have its own typology of the projects that it runs.*
 
 ### Case Categories
