@@ -59,7 +59,7 @@ Additionally, any new comment in the Discussion tab triggers a notification to i
 ![Agile_PM_Cases_04](https://github.com/user-attachments/assets/83e4e27a-72e0-4a81-90e3-56348dba316b)
 
 This feature fosters transparent, real-time communication while maintaining the integrity of formal project records. 
-It reduces reliance on external tools (like email or messaging apps), centralizes conversations around the work item, and ensures that critical context is never lost — improving decision-making, speeding up resolutions, and enhancing team alignment.
+It reduces reliance on external tools (like email or messaging apps), centralizes conversations around the work item, and ensures that critical context is never lost — improving decision-making, speeding up resolutions, and enhancing team alignment. 
 
 ### Case Statuses
 
