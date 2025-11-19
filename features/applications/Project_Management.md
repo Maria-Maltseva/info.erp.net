@@ -54,7 +54,8 @@ ___
 
 To start managing projects with ERP.net, Project Areas, project Types and Case Categories must be defined in advance. 
 The definitions are to be decided by the organization itself, while the setup could be done either by the implementation partner or the internal admin.
-Dig Deeper: What you need to know about __[Project Setting](Update ERPnet_PM_Setting_the_Stage.md)__
+
+Dig Deeper: What you need to know about __[Project Setting](ERPnet_PM_Setting_the_Stage.md)__
 
 ___
 
