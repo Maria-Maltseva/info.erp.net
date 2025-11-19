@@ -39,12 +39,13 @@ Every Case has its:
 - __owner__,
 - __level of priority__,
 - detailed __development log__. 
+
 Also, as ERP.net is a social ERP, Cases always have a __Discussion tab__ — a built-in chat channel linked to each individual Case. 
 There are several temporary __statuses__ possible that reflect the stage of the work.
 The user organization may also define its own statuses depending on its own classification.  
 When dealing with Cases, there might be some __hierarchy__ too. 
 
-Dig Deeper: What you need to know about [Cases](ERPnet_Project_Management_Cases_Detailed.md)__
+Dig Deeper: What you need to know about __[Cases](ERPnet_Project_Management_Cases_Detailed.md)__
 
 
 ___
@@ -53,8 +54,7 @@ ___
 
 To start managing projects with ERP.net, Project Areas, project Types and Case Categories must be defined in advance. 
 The definitions are to be decided by the organization itself, while the setup could be done either by the implementation partner or the internal admin.
-
-
+Dig Deeper: What you need to know about __[Project Setting](Update ERPnet_PM_Setting_the_Stage.md)__
 
 ___
 
