@@ -1,4 +1,4 @@
-# Project types
+### Project types
 
 Project Types are prerequisites for the creation of particular Projects and hence for the creation of Cases for these projects.
 
