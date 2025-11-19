@@ -1,4 +1,4 @@
-## Agile Project Management
+##  Project Management with ERP.net
 
 # Overview
 
@@ -6,7 +6,7 @@ Creative industries such as software development have found out that their proje
 But agile is no longer exclusive to IT – it’s becoming the standard for organizations that value adaptability. 
 Nowadays this approach is becoming more common, entering marketing and advertising, banking and finance, education and other industries that feel the need to become more flexible and adapt their current projects to the constantly evolving market environment.
 
-The Agile Project Management module of ERP.net is designed to let users easily apply agile project management - where work is done in small cycles with constant reviews and feedback.  
+The Project Management module of ERP.net is designed to let users easily apply agile project management - where work is done in small cycles with constant reviews and feedback. 
 EPR.Net Agile PM offers businesses a range of benefits that help streamline the agile processes, improve team collaboration, and ensure that projects stay on track.
 
 ___
@@ -17,7 +17,12 @@ In Agile Project Management, the core operational unit is “Cases”.
 A Case represents a tightly focused, manageable piece of work within the broader project.
 It functions as a dynamic work log that tracks the progress of a specific task from initiation to closure.
 
-![ERP.net__Project_Management_Cases_interface](Agile_PM_Cases_01.webp)
+To start working through Cases, the organization should first define its Projects, as well as their attributes respectively - Project Areas and Case Categories. 
+
+To make things easier, Cases may be grouped in tight timeframes called Sprints. 
+Every sprint is a short, fixed period (typically 1–4 weeks) where a team works intensively to complete a set of prioritized Cases and deliver tangible results. 
+
+![PM_article_01](https://github.com/user-attachments/assets/876e44e1-5d85-4ed5-8ecd-6ab33ec93e82)
 
 ___
 
@@ -30,13 +35,16 @@ This granular kind of task management lets organizations gain better control ove
 As each Case acts as a documented trail of work, it ensures that team members, stakeholders, and managers can see who did what and when. 
 This supports auditability and accountability.
 
-Every Case has its owner, level of priority, and development log. 
-As ERP.net is a social ERP, Cases always have a Discussion tab —  a built-in chat channel linked to each individual Case. 
-Several temporary statuses reflect the stage of the work. 
-There might be some Cases Hierarchy too. 
+Every Case has its:
+- __owner__,
+- __level of priority__,
+- detailed __development log__. 
+Also, as ERP.net is a social ERP, Cases always have a __Discussion tab__ — a built-in chat channel linked to each individual Case. 
+There are several temporary __statuses__ possible that reflect the stage of the work.
+The user organization may also define its own statuses depending on its own classification.  
+When dealing with Cases, there might be some __hierarchy__ too. 
 
-__More: What you need to know about [Cases](ERPnet_Project_Management_Cases_Detailed.md)__
-
+Dig Deeper: What you need to know about [Cases](ERPnet_Project_Management_Cases_Detailed.md)__
 
 
 ___
