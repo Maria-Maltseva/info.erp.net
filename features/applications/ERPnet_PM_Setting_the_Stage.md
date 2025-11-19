@@ -5,6 +5,8 @@ Project Types are prerequisites for the creation of particular Projects and henc
 Every Project Type defines a general kind of projects characterized by certain parameters that are common for a whole group of Projects. 
 *E.g. a marketing agency would often work on website development for different customers; hence, “Website Development” could be a Project Type for a marketing agency.* 
 
+![PM_article_13](https://github.com/user-attachments/assets/4cd99e50-6e5b-440a-a1e6-d59d545bd4da)
+
 *__Note:__*
 
 A type of project is NOT a business-division.
@@ -27,6 +29,9 @@ Categories are used for better resource allocation, visibility, tracking, report
 *E.g. for software projects categories may include: Bug, Feature, Enhancement, etc.*
 
 Case Categories can be thought of as kind of “labels” that are used to mark Cases according to the internal typology of the customer organization. 
+
+![PM_article_12](https://github.com/user-attachments/assets/c0cc0d76-6c7e-4bbe-9252-3505c29fb10b)
+
 By essence Categories are internal *__standard for Cases__*.
 
 Every single Case Category may encompass one or several Project Types. 
@@ -40,3 +45,5 @@ Areas help to better structure complex initiatives without imposing a mandatory 
 Areas are independent and can be used multiple times – the same area can be associated with several projects, and a single project can relate to different Areas. 
 This flexibility allows organizations to adapt project management to their own structure – be it by business function, geography, team or product line. 
 In reports, Project Areas allow for easy tracking of workload, progress and efficiency across different lines of work. 
+
+![PM_article_11](https://github.com/user-attachments/assets/dcd3359e-ee44-4396-bd80-79fc17af72ca)
