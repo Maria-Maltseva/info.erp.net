@@ -67,7 +67,6 @@ For the sake of future effectiveness, the user is encouraged to describe the rea
 
 As a lead may look likely to become a customer, but not an time soon, the user may “freeze” the record. 
 
-[!TIP]
 *Have in mind: the Leads tool of the Presales module is a kind of storebook that stays __in between__ the pack of all leads and the real Customers database of the organization.* 
 
 Once a lead becomes a to-be-a-customer, the user can go on to create a sales opportunity. 
