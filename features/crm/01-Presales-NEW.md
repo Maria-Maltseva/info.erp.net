@@ -2,7 +2,7 @@
 
 ## Overview
 
-In today’s interconnected world, individuals and businesses across the globe can be potential customers for a certain organization. S
+In today’s interconnected world, individuals and businesses across the globe can be potential customers for a certain organization. 
 Some may have never heard of the company, while others may have come in touch through various channels — social media, websites, networking at conferences and exhibitions, word-of-mouth, and so on.
 
 To effectively convert all these __leads__ into real customers, the organization needs to engage with each person or business, thoroughly explore their operations, assess their needs, and evaluate their potential and specific requirements. 
@@ -67,7 +67,8 @@ For the sake of future effectiveness, the user is encouraged to describe the rea
 
 As a lead may look likely to become a customer, but not an time soon, the user may “freeze” the record. 
 
-*Have in mind: the Leads tool of the Presales module is a kind of storebook that stays in between the pack of all leads and the real Customers database of the organization.* 
+[!TIP]
+*Have in mind: the Leads tool of the Presales module is a kind of storebook that stays __in between__ the pack of all leads and the real Customers database of the organization.* 
 
 Once a lead becomes a to-be-a-customer, the user can go on to create a sales opportunity. 
 
