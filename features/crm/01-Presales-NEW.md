@@ -11,6 +11,9 @@ Turning these leads into real customers requires a smooth, well-structured and s
 That’s where ERP.NET Presales comes in: a tool designed supports all the efforts that occur before striking a deal. 
 Presales encompasses all the steps, from the very first touch till having a loyal customer that regularly makes orders. 
 
+![people-business](https://github.com/user-attachments/assets/de23af40-11b6-47ae-934d-ac5c57b43b6d)
+
+
 Why do we need that? Presales is about focusing on the most promising leads — those with a higher chance of conversion to customers — ultimately __saving sales teams time__ and __optimizing the existing resources__. 
 It directs the sales efforts __exactly where they matter the most__. 
 As part of this, it provides a profound profile of all the interactions history of every customer, ensuring consistent and seamless communication throughout the sales process on the long term.
@@ -23,7 +26,7 @@ The Presales module is a comprehensive toolkit designed to support sales teams t
 
 The main tools of Presales include: Leads, Opportunities, and Offers:
 
-Lead →  Opportunity  →  Offer
+       Lead    →     Opportunity      →      Offer
 
 ### Leads
 
@@ -87,109 +90,109 @@ An Opportunity is usually described by means of several attributes:
   *Rather, they are used to manage deals, which may still be not clear enough to detail at this stage.*
   *However, the system allows adding products or services that are the subject of the potential transaction.*
 
-  An Opportunity description may also contain optional data:
+An Opportunity description may also contain optional data:
 
   - an appointed sales representative, managing the deal;
   - percentage probability of success: is set by the sales representative and is based on his/her own judgement;
   - expected revenue;
   - expected close date.
  
-    An Opportunity may be changed (edited) many times before its release.
-    Once an Opportunity is ready and released, the key instrument for continuing the sales process is the particular Offer to or the customer.
+An Opportunity may be changed (edited) many times before its release.
+Once an Opportunity is ready and released, the key instrument for continuing the sales process is the particular Offer to or the customer.
 
-    ### Offers
+### Offers
 
-    Creating an Offer is a main tool for interaction with the customer, be it new or existing one.
-    An Offer is a “child” to a sales Opportunity, but an Opportunitiy can be used to create numerous Offers.
+Creating an Offer is a main tool for interaction with the customer, be it new or existing one.
+An Offer is a “child” to a sales Opportunity, but an Opportunitiy can be used to create numerous Offers.
 
-    Every Offer is unique and therefore has a unique document number.
-    An offer is supposed to contain one or several lines with precise offerings (e.g. product, quantity, unit price, possibly a discount percentage).
+Every Offer is unique and therefore has a unique document number.
+An offer is supposed to contain one or several lines with precise offerings (e.g. product, quantity, unit price, possibly a discount percentage).
 
-    Every Offer contains several attributes that lets the sales teams and managers get all the information with a glance: customer, date of creation and expiry date, responsible sales person, currencies and payment methods, as well as current status.
-    This helps for streamlining the process and having consistent information about the offerings and their level of acceptance.
+Every Offer contains several attributes that lets the sales teams and managers get all the information with a glance: customer, date of creation and expiry date, responsible sales person, currencies and payment methods, as well as current status.
+This helps for streamlining the process and having consistent information about the offerings and their level of acceptance.
 
-    ### Advanced functions
+### Advanced functions
 
-    A number of advanced functions can help the process of creation and development of an Opportunity and/or an Offer.
+A number of advanced functions can help the process of creation and development of an Opportunity and/or an Offer.
 
-    __*Document flow*__
+__*Document flow*__
 
-    All the documents and communication with a to-be-customer or an existing Customer is being logged in detail to create a comprehensive profile of the relationship with the Customer or future client.
-    The whole document flow is available through a panel on the right side of the respective Opportunity or Offer.
-    Managers can easily identify what actions led to certain results, tracking all the steps from the lead to the real deal.
+All the documents and communication with a to-be-customer or an existing Customer is being logged in detail to create a comprehensive profile of the relationship with the Customer or future client.
+The whole document flow is available through a panel on the right side of the respective Opportunity or Offer.
+Managers can easily identify what actions led to certain results, tracking all the steps from the lead to the real deal.
 
-    Document Flow is shown in a tree-branched manner so that all the interactions are visible in a chronological pattern.
-    This allows the user to view the whole sales process in a glance and also to explore the details in deep.
+Document Flow is shown in a tree-branched manner so that all the interactions are visible in a chronological pattern.
+This allows the user to view the whole sales process in a glance and also to explore the details in deep.
 
-    __*Discussion*__
+__*Discussion*__
 
-    A *Discussion section* attached to every single Lead, Opportunity, and Offer allows team members to discuss matters with colleagues or supervisors, describe specific details, ask for advice, share arguments.
-    Every discussion is logged and remains binded to the specific Lead, Opportunity or Offer that it is related to.
-    The Discussion is kept for any future reference.
+A *Discussion section* attached to every single Lead, Opportunity, and Offer allows team members to discuss matters with colleagues or supervisors, describe specific details, ask for advice, share arguments.
+Every discussion is logged and remains binded to the specific Lead, Opportunity or Offer that it is related to.
+The Discussion is kept for any future reference.
 
-    The discussion allows for @mentions that trigger real-time notifications.
-    They provide easy tracking of the whole resolution flow — without leaving the current record and without need to switch to other chat apps.
+The discussion allows for @mentions that trigger real-time notifications.
+They provide easy tracking of the whole resolution flow — without leaving the current record and without need to switch to other chat apps.
 
-    __*Notifications*__
+__*Notifications*__
 
-    Real-time notifications bring out all the news regarding a particular Opportunity or Offer: new comments in the Discussion field, Status changes, assignments, edits and approvals, etc.
+Real-time notifications bring out all the news regarding a particular Opportunity or Offer: new comments in the Discussion field, Status changes, assignments, edits and approvals, etc.
 
-    __*Filtering*__
+__*Filtering*__
 
-    Advanced filtering and grouping tools inside the Presales module allow for easy analysis of the sales process without need to go to other applications or tools.
-    The user can filter or group the documents by different criteria, e.g. date or period, product or product type, sales person or region, etc.
-    These options let sales people dig deeper and find out trends that let the organization improve its sales process and resources.
+Advanced filtering and grouping tools inside the Presales module allow for easy analysis of the sales process without need to go to other applications or tools.
+The user can filter or group the documents by different criteria, e.g. date or period, product or product type, sales person or region, etc.
+These options let sales people dig deeper and find out trends that let the organization improve its sales process and resources.
 
-    ### Value added features
+### Value added features
 
-    Custom stages: In addition to the existing system stages of a Lead, the user organization can define its own user stages, tailored to the specific internal process.
-    This way, all the statuses and “next steps” become completely “personalized” to reflect the company's specific business model.
+Custom stages: In addition to the existing system stages of a Lead, the user organization can define its own user stages, tailored to the specific internal process.
+This way, all the statuses and “next steps” become completely “personalized” to reflect the company's specific business model.
 
-    Lost deals tracking: whenever an Opportunity is not realized, it can be marked as lost, but it is also possible to indicate which competitor won the deal and which of his solutions was favoured.
-    This additional set of details provides valuable insights for market analysis, deeper understanding of the competitors' strong propositions and better understanding the reasons for failure.
+Lost deals tracking: whenever an Opportunity is not realized, it can be marked as lost, but it is also possible to indicate which competitor won the deal and which of his solutions was favoured.
+This additional set of details provides valuable insights for market analysis, deeper understanding of the competitors' strong propositions and better understanding the reasons for failure.
 
-    Campaign analysis: By means of filters and grouping users can extract data and drill down to get insights about marketing campaign effectiveness (e.g. how many leads and deals came from certain campaign), lost deals stats, competitors analysis.
+Campaign analysis: By means of filters and grouping users can extract data and drill down to get insights about marketing campaign effectiveness (e.g. how many leads and deals came from certain campaign), lost deals stats, competitors analysis.
     This turns the Presales module into a powerful analytical tool that goes far beyond the function of a document register.
 
-    What Presales Brings to You
+__*What Presales Brings to You*__
 
-    Higher conversion rates: by qualifying leads early in the process, the sales people can prioritize prospects who are more likely to become customers.
-    Focusing on high-potential leads ensures that sales efforts are concentrated exactly where they will have the greatest impact.
+__Higher conversion rates__: by qualifying leads early in the process, the sales people can prioritize prospects who are more likely to become customers.
+Focusing on high-potential leads ensures that sales efforts are concentrated exactly where they will have the greatest impact.
 
-    Shorter sales cycle: a well-structured presales process streamlines the sales cycle, making it more efficient.
-    Gaining a clear understanding of the customer’s needs from the start and offering a precisely tailored solution accelerates decision-making and shortens the time to close a deal.
+__Shorter sales cycle__: a well-structured presales process streamlines the sales cycle, making it more efficient.
+Gaining a clear understanding of the customer’s needs from the start and offering a precisely tailored solution accelerates decision-making and shortens the time to close a deal.
 
-    Customer satisfaction: a customized pre-sales approach promises that customers will receive the products and services that truly meet their real needs.
-    This boosts customer satisfaction but also fosters loyalty, as customers are more likely to return to a company that understands their necessities and caters to their specific requirements.
+__Customer satisfaction__: a customized pre-sales approach promises that customers will receive the products and services that truly meet their real needs.
+This boosts customer satisfaction but also fosters loyalty, as customers are more likely to return to a company that understands their necessities and caters to their specific requirements.
 
-    Time and resources allocation: prioritizing qualified leads enables sales teams to use their resources as efficiently as possible.
-    By focusing on leads with a higher chance of conversion, salespeople avoid wasting time and energy.
-    This results in better outcomes and more effective use of company resources, leading to greater success and motivation among sales teams.
+__Time and resources allocation__: prioritizing qualified leads enables sales teams to use their resources as efficiently as possible.
+By focusing on leads with a higher chance of conversion, salespeople avoid wasting time and energy.
+This results in better outcomes and more effective use of company resources, leading to greater success and motivation among sales teams.
 
-    This results in better outcomes and more effective use of company resources, leading to greater success and motivation among sales teams.
+This results in better outcomes and more effective use of company resources, leading to greater success and motivation among sales teams.
 
-    Competitor awareness: Indicating which competitor won a customer is valuable information, the system accumulates statistics and supports strategic decisions for future campaigns and positioning.
+__Competitor awareness__: Indicating which competitor won a customer is valuable information, the system accumulates statistics and supports strategic decisions for future campaigns and positioning.
 
-    Powerful analytical tools: The Presales module has powerful analytical capabilities that help teams and team managers get deep insights in the work processes without leaving the module.
-    They don’t need to visit other internal modules or third-party tools to dig deeper into the statistics of the workflow.
-    Sales people and managers can examine the existing data to find patterns that help sales teams become more efficient, achieve better results and become more successful and satisfied.
+__Powerful analytical tools__: The Presales module has powerful analytical capabilities that help teams and team managers get deep insights in the work processes without leaving the module.
+They don’t need to visit other internal modules or third-party tools to dig deeper into the statistics of the workflow.
+Sales people and managers can examine the existing data to find patterns that help sales teams become more efficient, achieve better results and become more successful and satisfied.
 
-    Lead-to-Order clarity: The entire process — from the first contact with a potential customer to the final order and invoice — is completely transparent and traceable.
-    This “Lead-to-Order” mindset makes sales not just a series of documents, but a comprehensive strategy for growth and sustainability.
+__Lead-to-Order clarity__: The entire process — from the first contact with a potential customer to the final order and invoice — is completely transparent and traceable.
+This “Lead-to-Order” mindset makes sales not just a series of documents, but a comprehensive strategy for growth and sustainability.
 
-    Try Presales Now – From Lead to Order in One Flow
+*Try Presales Now – From Lead to Order in One Flow*
 
-    Presales in ERP.net gives you a clear path from the very first lead to the final order — with every step connected and transparent.
+Presales in ERP.net gives you a clear path from the very first lead to the final order — with every step connected and transparent.
 
-    You don’t need extra tools, spreadsheets, or scattered notes. Just log into our publicly available test instance and see the Lead-to-Order process in action — without registration.
+You don’t need extra tools, spreadsheets, or scattered notes. Just log into our publicly available test instance and see the Lead-to-Order process in action — without registration.
 
-    You can see and try the Presales feature in Express CRM and ERP.net yourself.
+You can see and try the Presales feature in Express CRM and ERP.net yourself.
 
-    It's easy - just log into our publicly available test instance of ERP.net - without having to register:
+It's easy - just log into our publicly available test instance of ERP.net - without having to register:
 
-    Presales in ERP.net - Try now without registration
+Presales in ERP.net - Try now without registration
 
-    Access credentials - Use these to log in
+Access credentials - Use [these](https://info.erp.net/information/try-out-erp-net-express-crm.html) to log in
     
 
     
