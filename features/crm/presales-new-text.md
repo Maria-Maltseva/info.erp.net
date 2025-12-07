@@ -13,7 +13,6 @@ Presales encompasses all the steps, from the very first touch till having a loya
 
 ![people-business](https://github.com/user-attachments/assets/de23af40-11b6-47ae-934d-ac5c57b43b6d)
 
-
 Why do we need that? Presales is about focusing on the most promising leads — those with a higher chance of conversion to customers — ultimately __saving sales teams time__ and __optimizing the existing resources__. 
 It directs the sales efforts __exactly where they matter the most__. 
 As part of this, it provides a profound profile of all the interactions history of every customer, ensuring consistent and seamless communication throughout the sales process on the long term.
