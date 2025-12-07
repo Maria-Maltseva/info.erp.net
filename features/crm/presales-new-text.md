@@ -33,10 +33,13 @@ A lead is anyone that has the potential to become a future customer.
 Leads can reach the organization in many ways, such as: someone who sees or downloads content, signs up for a trial, visits a store, meets at an exhibition, etc. 
 Also a lead may be someone who never interacted, but the organization happens to know of his existence. 
 
-*Note: whenever a Lead has come though a marketing effort, ERP.net allows for campaign tracking. Later on, marketing and sales teams would be able to analyze the success of their campaigns in terms of amount of leads generated, percentage of conversion, etc.* 
+[!Note]: 
+Whenever a Lead has come though a marketing effort, ERP.net allows for campaign tracking. Later on, marketing and sales teams would be able to analyze the success of their campaigns in terms of amount of leads generated, percentage of conversion, etc.* 
 
 No matter where leads came from, any organization aims to generate as many leads as possible, then research them, contact them and guide them down the sales funnel, providing relevant content, personal attention and individual offerings – until reaching a deal. 
 That’s when the lead will turn into cash for the company. 
+
+![Presales_001](https://github.com/user-attachments/assets/7a9123c6-9e08-4647-b35f-a0519d286d3c)
 
 __In Presales, a Lead can be perceived as a “draft” of a future client.__ 
 
@@ -47,7 +50,8 @@ A Lead may still be *quite incomplete* – some data may be missing, and this is
 This information may be collected and entered later. 
 ERP.net is based on the “fast input, minimal friction” logic. 
 
-*Hint: Leads often come in bulk from external lists, therefore ERP.net allows for bulk import. Users are free to define what data will be imported without having to comply with a rigidly defined and inconvenient template.* 
+[!Tip] 
+Leads often come in bulk from external lists, therefore ERP.net allows for bulk import. Users are free to define what data will be imported without having to comply with a rigidly defined and inconvenient template.* 
 
 Once a Lead is created, the sales team needs to determine if the lead is worth pursuing. 
 They would strive to find out if a lead aligns with the target market of the organization. 
@@ -55,6 +59,8 @@ It is a kind of preliminary investigation that saves time and resources to the t
 Therefore  the user will “run” a lead to determine if it qualifies to become a customer. 
 
 Whenever a lead seems worth the effort of trying to convert it to customer, the user can switch it to a new status: marketing qualified (e.g. the customer needs more information on the products/services offered) or sales qualified (e.g. customer wants a tailored offer). 
+
+![Presales_002](https://github.com/user-attachments/assets/41b6b1ff-7874-4195-bc6f-603e05db09da)
 
 Still the lead is NOT a customer. Not yet. 
 
@@ -67,9 +73,12 @@ Whenever a lead seems not likely to become a customer at all, the user can drop 
 This move helps to prevent waste of time and efforts for the sales people, feeling of failure and dissatisfaction.
 For the sake of future effectiveness, the user is encouraged to describe the reason for dropping the lead.
 
+![Presales_003](https://github.com/user-attachments/assets/5f715500-700b-4886-b529-e00a8fd01e3b)
+
 As a lead may look likely to become a customer, but not an time soon, the user may “freeze” the record. 
 
-*Have in mind: the Leads tool of the Presales module is a kind of storebook that stays __in between__ the pack of all leads and the real Customers database of the organization.* 
+[!IMPORTANT]
+The Leads tool of the Presales module is a kind of storebook that stays __in between__ the pack of all leads and the real Customers database of the organization.* 
 
 Once a lead becomes a to-be-a-customer, the user can go on to create a sales opportunity. 
 
@@ -80,12 +89,15 @@ This is the moment of turning a __Lead to Order__.
 An Opportunity is an official document that thoroughly describes a possible deal with a Customer together with an evaluation of the chance of the deal becoming real. 
 The Opportunity reflects the crucial moment when the sales communication is right on the threshold of becoming real incoming cash. 
 
+![Presales_004](https://github.com/user-attachments/assets/d987fc5a-9a31-48ee-b653-6439ee4a3405)
+
 An Opportunity is usually described by means of several attributes:
 
 * Party – the organization that is customer or to-be-a-customer;
 * a person who is responsible for the interactions with the client: a Leading Sales Person.
 
-  *Note: Typically opportunities do not contain line items.*
+[!NOTE] 
+  *Typically opportunities do not contain line items.*
   *Rather, they are used to manage deals, which may still be not clear enough to detail at this stage.*
   *However, the system allows adding products or services that are the subject of the potential transaction.*
 
@@ -95,8 +107,10 @@ An Opportunity description may also contain optional data:
   - percentage probability of success: is set by the sales representative and is based on his/her own judgement;
   - expected revenue;
   - expected close date.
- 
-An Opportunity may be changed (edited) many times before its release.
+
+![Presales_005](https://github.com/user-attachments/assets/edb2a1ab-5b5d-4967-b80a-08f33a28743d)
+
+ An Opportunity may be changed (edited) many times before its release.
 Once an Opportunity is ready and released, the key instrument for continuing the sales process is the particular Offer to or the customer.
 
 ### Offers
@@ -105,7 +119,9 @@ Creating an Offer is a main tool for interaction with the customer, be it new or
 An Offer is a “child” to a sales Opportunity, but an Opportunitiy can be used to create numerous Offers.
 
 Every Offer is unique and therefore has a unique document number.
-An offer is supposed to contain one or several lines with precise offerings (e.g. product, quantity, unit price, possibly a discount percentage).
+An Offer is supposed to contain one or several lines with precise offerings (e.g. product, quantity, unit price, possibly a discount percentage).
+
+![Presales_006](https://github.com/user-attachments/assets/7080f979-40af-47ba-868b-ab8f10c49ad4)
 
 Every Offer contains several attributes that lets the sales teams and managers get all the information with a glance: customer, date of creation and expiry date, responsible sales person, currencies and payment methods, as well as current status.
 This helps for streamlining the process and having consistent information about the offerings and their level of acceptance.
@@ -120,6 +136,8 @@ All the documents and communication with a to-be-customer or an existing Custome
 The whole document flow is available through a panel on the right side of the respective Opportunity or Offer.
 Managers can easily identify what actions led to certain results, tracking all the steps from the lead to the real deal.
 
+![Presales_007](https://github.com/user-attachments/assets/b587c2cb-11d6-4f12-90bc-7411ddb1eb65)
+
 Document Flow is shown in a tree-branched manner so that all the interactions are visible in a chronological pattern.
 This allows the user to view the whole sales process in a glance and also to explore the details in deep.
 
@@ -128,6 +146,8 @@ __*Discussion*__
 A *Discussion section* attached to every single Lead, Opportunity, and Offer allows team members to discuss matters with colleagues or supervisors, describe specific details, ask for advice, share arguments.
 Every discussion is logged and remains binded to the specific Lead, Opportunity or Offer that it is related to.
 The Discussion is kept for any future reference.
+
+![Presales_008](https://github.com/user-attachments/assets/38b9c669-e51c-4fca-867d-c65102145d10)
 
 The discussion allows for @mentions that trigger real-time notifications.
 They provide easy tracking of the whole resolution flow — without leaving the current record and without need to switch to other chat apps.
@@ -141,6 +161,8 @@ __*Filtering*__
 Advanced filtering and grouping tools inside the Presales module allow for easy analysis of the sales process without need to go to other applications or tools.
 The user can filter or group the documents by different criteria, e.g. date or period, product or product type, sales person or region, etc.
 These options let sales people dig deeper and find out trends that let the organization improve its sales process and resources.
+
+![Presales_009](https://github.com/user-attachments/assets/e1f088ce-d940-49f8-b1f7-efbf5379e54d)
 
 ### Value added features
 
