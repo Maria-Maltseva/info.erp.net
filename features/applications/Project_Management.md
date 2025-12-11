@@ -67,7 +67,7 @@ Sprints in ERP.net define the time cycles that drive the agile processes.
 
 Each Sprint contains a schedule, duration, and performance metrics within a Project or team.
 
-Specific Cases can be associated with each Aprint, allowing teams to plan capacity, track velocity, and assess progress after each iteration cycle.
+Specific Cases can be associated with each Sprint, allowing teams to plan capacity, track velocity, and assess progress after each iteration cycle.
 
 Milestones, Priorities, and Areas can coexist within a sprint, providing a clear view of what is being delivered and when.
 
