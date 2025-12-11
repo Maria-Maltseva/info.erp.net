@@ -17,7 +17,7 @@ In Agile Project Management, the core operational unit is “Cases”.
 A Case represents a tightly focused, manageable piece of work within the broader project.
 It functions as a dynamic work log that tracks the progress of a specific task from initiation to closure.
 
-To start working through Cases, the organization should first define its Projects, as well as their attributes respectively - Project Areas and Case Categories. 
+To start working through Cases, the organization should first define its Projects, as well as their key definitions - Project Areas, Case Categories, and Project Milestones. 
 
 To make things easier, Cases may be grouped in tight timeframes called Sprints. 
 Every sprint is a short, fixed period (typically 1–4 weeks) where a team works intensively to complete a set of prioritized Cases and deliver tangible results. 
@@ -40,7 +40,8 @@ Every Case has its:
 - __level of priority__,
 - detailed __development log__. 
 
-Also, as ERP.net is a social ERP, Cases always have a __Discussion tab__ — a built-in chat channel linked to each individual Case. 
+Also, as ERP.net is a social ERP, Cases always have a __Discussion panel__ — a built-in chat channel linked to each individual Case. 
+
 There are several temporary __statuses__ possible that reflect the stage of the work.
 The user organization may also define its own statuses depending on its own classification.  
 When dealing with Cases, there might be some __hierarchy__ too. 
