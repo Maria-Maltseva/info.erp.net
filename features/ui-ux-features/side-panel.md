@@ -2,7 +2,12 @@
 
 ## Overview
 
-In ERP.net there is a kind of magic multitool that allows users to perform a range of precise actions depending on the content they’re working with at any given moment. 
+In our everyday work, we constantly juggle large amounts of information. 
+When working with a business system, this often means switching back and forth between multiple screens just to gather the data needed for a single task. 
+This kind of friction in daily workflows costs both time and mental energy. 
+But there is a way to smooth things out.  
+
+In ERP.net, there is a powerful multitool that enables users to perform a wide range of precise actions based on the content they are working with at any given moment — seamlessly and without disruption. 
 The side panel is a UI element — typically appearing on the right side — that provides additional contextual tools and information related to the selected record, document, or entity.
 
 The side panel is like a magician’s wand: its behavior changes based on where you are in the system and what is the user’s role.
@@ -15,14 +20,18 @@ _What you see here: The side panel shows up on the right side to provide additio
 
 ## How the side panel works
 
-A side panel becomes available when a user accesses data records through a navigator — for example, when entering the Sales, Orders, or Customers navigator, or any other navigator within ERP.net. 
-Also the side panel is accessible when a specific record is opened, such as an invoice, offer, or project. 
+In our daily work with digital systems, we are accustomed to the so-called right-click — on the right side, within easy reach of our hand, there is a “Swiss Army knife” of additional tools that allow us to perform a wide range of operational actions. The
+Side Panel builds on this "right-side" logic.
+
+The Side Panel becomes available at the right side when a user accesses data records through any navigator — for example, when entering the Sales, Orders, or Customers navigator, or any other navigator within ERP.net. 
+Also the Side Panel is accessible when a specific record is opened, such as an invoice, offer, or project. 
 In both cases, it can be opened via the kebab-menu on the right.
 
 The functions available in the side panel vary depending on the context. 
-At least half of them are navigator-specific which means they appear only for the current content.
+They are navigator-specific which means they appear - and are applicable - to the current content only.
 
-For instance, when opening the Product navigator, the side panel provides a list of Product Groups, making it easier to navigate through thousands of product records. 
+For instance, when opening the Product navigator, the Side Panel provides a list of Product Groups. 
+So it makes it easier to navigate through thousands of product records. 
 
 When a user opens an Offer, the side panel allows him to review the whole Document Flow — the complete communication history with the client related to that specific offer, from the initial contact (Lead) to the warehouse order and final invoice.
 
