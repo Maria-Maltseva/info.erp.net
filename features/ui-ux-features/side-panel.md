@@ -62,6 +62,110 @@ _What you see here: some of the tools in the side panel look the same, e.g. Disc
 _They perform the same action, but over different object – the one that is open on screen._ 
 _So the result is different every time_. 
 
+Basically what Side Panel is doing is:
+
+1. It saves time (fewer clicks, less navigation)
+
+Without a side panel:
+
+You open a Sales Order,
+
+Then open the Customer,
+
+Then open their Invoices,
+
+Then go back again…
+
+With the Side Panel:
+
+All that related information is already there
+
+You stay on the same screen
+
+Result: less switching, faster execution
+
+2. It gives context when you need it
+
+ERP screens usually show only the current document.
+The Side Panel answers questions like:
+
+Has this customer overdue invoices?
+
+Is this product in stock?
+
+Is this order already shipped or paid?
+
+Result: You make decisions with context, not guesses.
+
+3. It reduces mistakes
+
+Many ERP errors happen because users:
+
+Miss important information
+
+Don’t notice related problems (credit limits, blocked customers, missing stock)
+
+The Side Panel can:
+
+Show balances, availability, and statuses
+
+Surface risks before you confirm or post
+
+Result: Fewer costly mistakes.
+
+4. It supports different roles without clutter
+
+Not everyone needs the same data:
+
+Sales → customer history, pricing, credit
+
+Logistics → availability, shipments
+
+Finance → payments, balances
+
+Instead of:
+
+Overloading the main screen
+
+ERP.net uses the Side Panel to:
+
+Show role-specific information
+
+Keep the main form clean and simple
+
+5. It enables “next action” thinking
+
+The Side Panel doesn’t just show data — it suggests what you can do next:
+
+Create invoice
+
+Create shipment
+
+Open related document
+
+Continue workflow
+
+Result: The system guides the user, not just stores data.
+
+6. It scales with complexity
+
+As your business grows:
+
+More documents
+
+More checks
+
+More dependencies
+
+The Side Panel scales without redesigning screens by:
+
+Adding insights
+
+Adding relations
+
+Adding automation hooks
+
+
 ## Lists vs. Single Entries
 
 Side panel behaves slightly differently when the user is watching a list inside a navigator and when the user is dealing with a individual record inside a form. 
@@ -113,7 +217,7 @@ _What you see here: About half of the side panel tools are actionable and allow 
 
 ### Big Side Panel vs Small Side Panel 
 
-The big kebab-menu on the right side of the system interface opens the side panel, but as you navigate through the system you would notice there are some small kebab-menus here and there.
+The big kebab-menu on the right side of the system interface opens the side panel, but as you navigate through the system you would notice there are some small kebab-menus at the right side too.
 They have similar function: to provide additional tools so that the user can get the best value out of the data he is dealing with. 
 Small kebab-menus open small side panels that provide several additional tools. 
 These may include: search, turning the grouping panel on, activating the filter row, allowing for multi-selection, exporting to Excel datasheet, etc. 
