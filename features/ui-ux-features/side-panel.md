@@ -187,8 +187,8 @@ For example, one can add the entry to Favorites, or save it as a document within
 In essence, the side panel displays __context-specific information and tools__ related to the selected product, party, or person, or other kind of entry – or the selected list of entries. 
 It’s somewhat like right-clicking on a webpage: a contextual menu appears, offering actions that depend on what you’ve selected.
 
-__Main benefit__: The side panel enhances usability — it is a one-click-away drawer full of functional tools that let the user work with the information like a real expert with in-depth knowledge of all the ERP.net powerful aspects. 
-Hence, it allows the user to get the maximum of the ERP.net toolset. 
+__Main benefit__: The side panel enhances usability — it is a one-click-away drawer full of functional tools that let the user work easily within one screen, being able to do almost everything with the information in front.  
+Hence, the Side panel allows the user to get the maximum of the ERP.net toolset. 
 
 [!Note]
 Note: The side panel operates independently of the main form view. 
@@ -206,26 +206,13 @@ The Delete and Change History tools, whenefer they appear, are self-explanatory,
 ![Side_panel_007-](https://github.com/user-attachments/assets/2e06b69e-5f28-4517-95f3-9f04e1f8ed79)
 _What you see here: About half of the side panel tools are actionable and allow the user to perform different actions to the record._
 
-### Big Side Panel vs Small Side Panel 
-
-The big kebab-menu on the right side of the system interface opens the side panel, but as you navigate through the system you would notice there are some small kebab-menus at the right side too.
-They have similar function: to provide additional tools so that the user can get the best value out of the data he is dealing with. 
-Small kebab-menus open small side panels that provide several additional tools. 
-These may include: search, turning the grouping panel on, activating the filter row, allowing for multi-selection, exporting to Excel datasheet, etc. 
-
-![Side_panel_008-](https://github.com/user-attachments/assets/2bdce8cb-cb42-46ad-b35a-522425b5ca02)
-_The small kebab-menu opens a small side panel with several more additional tools for everyday work and convenience._
-
 ## Verdict: The Side Panel – What You Get 
 
-ERP.net's side panel is a powerful magic toobox that enhances user productivity by embedding different tools directly within the workspace, depending on the specific content that is currently viewed. 
+ERP.net's side panel is a powerful multitool that enhances user productivity by embedding different tools directly within the workspace, depending on the specific content that is currently viewed. 
 This allows for: 
 
-___Faster access to rich context___: Rather than opening full forms or drilling down, one can see all the key information in the side panel.
+___Faster access___: Rather than opening several forms or going back and forth, one can see all the key information in the side panel.
 
-___Better usability___: With wide screens, data is better organized, intuitively accessible, one-click away. 
-
-___Customization & relevance___: The user can customize the views and layouts, making it easier and more convenient to work, and the customization tooklit is always tailored to the specific content displayed.
+___Better usability___: Data and tools are  intuitively accessible and one-click away. 
 
 ___Enhanced navigation___: Especially in lists/navigators, the side panel gives extra information without leaving the list, pluss alowing to keep preselected items or lists to ease the future work. 
-
