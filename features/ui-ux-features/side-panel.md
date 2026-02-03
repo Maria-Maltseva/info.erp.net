@@ -29,12 +29,8 @@ In both cases, it can be opened via the kebab-menu (three-dot menu) on the right
 The functions available in the side panel vary depending on the context. 
 They are navigator-specific which means they appear - and are applicable - to the current content only.
 
-For instance, when opening the Product navigator, the Side Panel provides a list of Product Groups. 
-So it makes it easier to navigate through thousands of product records. 
-
-When a user opens an Offer, the side panel allows him to review the whole Document Flow — the complete communication history with the client related to that specific offer, from the initial contact (Lead) to the warehouse order and final invoice.
-
-And if the user opens a Case that’s part of a Project, the side panel conveniently suggests viewing the Case hierarchy right away.
+For instance, when a user opens an Offer, the side panel allows him to review the whole Document Flow — documents before/after the current one in the document chain (e.g., offer → sales order → shipment/invoice), when such relations exist.
+And if the user opens a Case that’s part of a Project, the side panel conveniently suggests viewing the Case Hierarchy right away.
 
 ![Side_panel_003-](https://github.com/user-attachments/assets/ab6cb569-cfb6-40c8-bdcd-5e1b955e1f55)
 _What you see here: Some of the tools inside the side panel are specific to the type of entry the user is dealing  with, e.g. when a Case is open, the side panel would serve the “Meet” tool and the “Case hierarchy” tool; one would not see these functions when opening an invoice or a customers profile._ 
@@ -53,8 +49,6 @@ When viewing a Case, for example, the side panel will display to-do items associ
 But if you’re viewing a Lead record, the to-dos shown will relate specifically to the particular Lead.
 
 Other tools that share the same name but deliver context-specific results include Notifications, Files, etc. 
-
-Typically the last tools in the side panel (located on the bottom of the list) would be related to the layout of the current form. 
 
 ![Side_panel_005-](https://github.com/user-attachments/assets/fbb4bdfd-c545-42c2-9fde-0ab76fa580d2)
 _What you see here: some of the tools in the side panel look the same, e.g. Discussion,To-do, etc._ 
@@ -176,18 +170,16 @@ What do people typically do with lists?
 They often search for specific types of entries. 
 That’s why, when in a list navigator, the side panel includes an Advanced Filter. 
 This powerful tool allows users to search using one or multiple criteria they define. 
-The Advanced filter usually comes on top of the side panel toolkit along with several common instruments like Discussion and Files.
+The Advanced filter usually comes on top of the side panel toolkit along with several common instruments.
 
 ![Side_panel_004--](https://github.com/user-attachments/assets/cd1656b2-9a3a-49c1-8e7b-82a4cadfb753)
 _What you see here: The Advanced filter is one of the most powerful tools one can find inside the “side panel” toolbox._
 
-After using the Advanced filter the user would probably end up with a selection of items to work on. 
-What do people do with selections? 
-Users often want to keep the selected items for later use.
-The side panel makes this possible through the “Create a Tile” option _(read more about [Tiles](https://info.erp.net/features/my-apps/tiles.html)")_.
+After using the Advanced filter the user may end up with a selection of items to continuously work on. 
+In case the user walts to preserve the selection, the Side Panel makes this possible through the “Create a Tile” option _(read more about [Tiles](https://info.erp.net/features/my-apps/tiles.html)")_.
 
 ![Side_panel_006-](https://github.com/user-attachments/assets/966339db-776e-431c-afa2-50e9fdd3838f)
-_What you see here: When the user is dealing with a selection of items from a list, the side panel will suggest creating a new Tile._
+_What you see here: When the user is dealing with a selection of items from a list, the Side Panel will suggest creating a new Tile._
 
 When viewing single entries — such as a certain Lead, an Order, or a Case — the side panel offers different options. 
 For example, one can add the entry to Favorites, or save it as a document within a specific Folder (read more about Folders). 
@@ -209,7 +201,7 @@ For example, the Notifications, System Info, and Details tools provide additiona
 
 Other tools, however, are actionable — they allow the user to interact, to make changes, to produce results. 
 For instance, Discussion lets users participate in a chat about a specific entry, ask questions to colleagues, or leave comments. 
-The Delete and Change History tools are self-explanatory, enabling users to remove items or review modification logs.
+The Delete and Change History tools, whenefer they appear, are self-explanatory, enabling users to remove items or review modification logs.
 
 ![Side_panel_007-](https://github.com/user-attachments/assets/2e06b69e-5f28-4517-95f3-9f04e1f8ed79)
 _What you see here: About half of the side panel tools are actionable and allow the user to perform different actions to the record._
