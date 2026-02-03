@@ -13,19 +13,18 @@ The side panel is a UI element — typically appearing on the right side — tha
 The side panel is like a magician’s wand: its behavior changes based on where you are in the system and what is the user’s role.
 It offers a variety of functions — most of them tailored to the current context. 
 Hard to picture? 
-Think of it as Gandalf’s magic stick that spells different magic every time - depending on the object and the intention.
+Think of it as a Swiss army knife that contains tens of useful tools, all hidden - one can use one or few of these depending on the object and the intention.
 
 ![Side_panel_001-](https://github.com/user-attachments/assets/8bb89e80-a9d8-434b-b59c-314f3ccda6f9)
 _What you see here: The side panel shows up on the right side to provide additional tools for dealing with the information from the current navigator._ 
 
 ## How the side panel works
 
-In our daily work with digital systems, we are accustomed to the so-called right-click — on the right side, within easy reach of our hand, there is a “Swiss Army knife” of additional tools that allow us to perform a wide range of operational actions. The
-Side Panel builds on this "right-side" logic.
+In our daily work with digital systems, we are accustomed to the so-called right-click — on the right side, within easy reach of our hand, there is a whole palette of additional tools that allow us to perform a wide range of operational actions. The Side Panel builds on this "right-side" logic.
 
 The Side Panel becomes available at the right side when a user accesses data records through any navigator — for example, when entering the Sales, Orders, or Customers navigator, or any other navigator within ERP.net. 
 Also the Side Panel is accessible when a specific record is opened, such as an invoice, offer, or project. 
-In both cases, it can be opened via the kebab-menu on the right.
+In both cases, it can be opened via the kebab-menu (three-dot menu) on the right.
 
 The functions available in the side panel vary depending on the context. 
 They are navigator-specific which means they appear - and are applicable - to the current content only.
