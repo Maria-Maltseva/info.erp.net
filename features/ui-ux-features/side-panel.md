@@ -1,4 +1,4 @@
-# The Side Panel – a Magic Multitool for In-depth Expertise
+# The Side Panel – a Powerful Multitool for In-depth Expertise
 
 ## Overview
 
@@ -7,10 +7,12 @@ When working with a business system, this often means switching back and forth b
 This kind of friction in daily workflows costs both time and mental energy.
 But there is a way to smooth things out.
 
-In ERP.net, there is a powerful multitool that enables users to perform a wide range of precise actions based on the content they are working with at any given moment — seamlessly and without disruption.
+In ERP.net, there is a powerful multitool that enables users to perform a wide range of precise actions based on the content they are working with at any given moment — without juggling with many screens.
 The side panel is a UI element — typically appearing on the right side — that provides additional contextual tools and information related to the selected record, document, or entity.
 
-The side panel is like a magician’s wand: its behavior changes based on where you are in the system and what the user’s role is.
+## A hidden treasure: the side panel 
+
+The side panel is like a magician’s wand: it is hidden, but can perform a lot of actions; its behavior changes based on where you are in the system and what the user’s role is.
 It offers a variety of functions — most of them tailored to the current context.
 Hard to picture?
 Think of it as a Swiss army knife that contains tens of useful tools, all hidden — one can use one or a few of these depending on the object and the intention.
@@ -20,11 +22,9 @@ _What you see here: The side panel shows up on the right side to provide additio
 
 ## How the side panel works
 
-In our daily work with digital systems, we are accustomed to the so-called right-click — on the right side, within easy reach of our hand, there is a whole palette of additional tools that allow us to perform a wide range of operational actions. The Side Panel builds on this "right-side" logic.
-
 The Side Panel becomes available on the right side when a user accesses data records through any navigator — for example, when entering the Sales, Orders, or Customers navigator, or any other navigator within ERP.net.
 Also, the Side Panel is accessible when a specific record is opened, such as an invoice, offer, or project.
-In both cases, it can be opened via the kebab-menu (three-dot menu) on the right.
+In both cases, it can be opened via the kebab-menu (three-dot menu) on the right side.
 
 The functions available in the side panel vary depending on the context.
 They are navigator-specific, which means they appear — and are applicable — to the current content only.
@@ -57,108 +57,19 @@ _So the result is different every time._
 
 Basically what Side Panel is doing is:
 
-1. It saves time (fewer clicks, less navigation)
+It saves time (fewer clicks, less navigation)
 
-Without a side panel:
+Provides all the relative information 
 
-You open a Sales Order,
+Gives context when you need it
 
-Then open the Customer,
+Allows informed decisions 
 
-Then open their Invoices,
+Reduces mistakes
 
-Then go back again…
+Supports different roles without clutter.
 
-With the side panel
-
-All that related information is already there
-
-You stay on the same screen
-
-Result: less switching, faster execution
-
-2. It gives context when you need it
-
-ERP screens usually show only the current document.
-The Side Panel answers questions like:
-
-Has this customer got overdue invoices?
-
-Is this product in stock?
-
-Is this order already shipped or paid?
-
-Result: You make decisions with context, not guesses.
-
-3. It reduces mistakes
-
-Many ERP errors happen because users:
-
-Miss important information
-
-Don’t notice related problems (credit limits, blocked customers, missing stock)
-
-The Side Panel can:
-
-Show balances, availability, and statuses
-
-Surface risks before you confirm or post
-
-Result: Fewer costly mistakes.
-
-4. It supports different roles without clutter
-
-Not everyone needs the same data:
-
-Sales → customer history, pricing, credit
-
-Logistics → availability, shipments
-
-Finance → payments, balances
-
-Instead of:
-
-Overloading the main screen
-
-ERP.net uses the Side Panel to:
-
-Show role-specific information
-
-Keep the main form clean and simple
-
-5. It enables “next action” thinking
-
-The Side Panel doesn’t just show data — it suggests what you can do next:
-
-Create invoice
-
-Create shipment
-
-Open related document
-
-Continue workflow
-
-Result: The system guides the user, not just stores data.
-
-6. It scales with complexity
-
-As your business grows:
-
-More documents
-
-More checks
-
-More dependencies
-
-The Side Panel scales without redesigning screens by:
-
-Adding insights
-
-Adding relations
-
-Adding automation hooks
-
-## Lists vs. Single Entries
+### Lists vs. Single Entries
 
 The side panel behaves slightly differently when the user is viewing a list inside a navigator and when the user is dealing with an individual record inside a form.
 
@@ -215,3 +126,5 @@ ___Faster access___: Rather than opening several forms or going back and forth, 
 ___Better usability___: Data and tools are intuitively accessible and one click away.
 
 ___Enhanced navigation___: Especially in lists/navigators, the side panel gives extra information without leaving the list, plus allowing you to keep preselected items or lists to make future work easier.
+
+
