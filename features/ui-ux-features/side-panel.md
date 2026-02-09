@@ -119,12 +119,57 @@ _What you see here: About half of the side panel tools are actionable and allow 
 ## Verdict: The Side Panel – What You Get
 
 ERP.net's side panel is a powerful multitool that enhances user productivity by embedding different tools directly within the workspace, depending on the specific content that is currently viewed.
-This allows for:
 
-___Faster access___: Rather than opening several forms or going back and forth, one can see all the key information in the side panel.
+The side panel:
 
-___Better usability___: Data and tools are intuitively accessible and one click away.
+1. **Saves time / faster execution**
+   - Fewer clicks and less navigation
+   - Less back-and-forth between screens
+   - Faster completion of tasks by staying on the same screen
 
-___Enhanced navigation___: Especially in lists/navigators, the side panel gives extra information without leaving the list, plus allowing you to keep preselected items or lists to make future work easier.
+2. **Reduces mental effort**
+   - Less context switching and friction in daily workflows
+   - Smoother work “without disruption”
+
+3. **Provides context when needed**
+   - Shows related information next to the current record/list to support decisions
+   - Helps answer questions like:
+     - overdue invoices
+     - stock availability
+     - shipment/payment status (examples given)
+
+4. **Reduces mistakes**
+   - Helps users notice important information and related problems (examples given)
+   - Surfaces risks before confirming/posting
+
+5. **Supports different roles without clutter**
+   - Role-specific information (sales vs logistics vs finance)
+   - Keeps the main form clean and simple instead of overloading it
+
+6. **Enables “next action” thinking**
+   - Suggests what you can do next (examples given):
+     - create invoice
+     - create shipment
+     - open related document
+     - continue workflow
+
+7. **Scales with increasing complexity**
+   - As the business grows (more documents/checks/dependencies), it can scale by:
+     - adding insights
+     - adding relations
+     - adding automation hooks  
+     *(without redesigning screens, per the article)*
+
+8. **Improves usability**
+   - A one-click-away “drawer” of tools
+   - Lets users work within one screen with maximum use of the ERP.net toolset (as stated)
+
+9. **Enhances navigation (especially in lists/navigators)**
+   - Gives extra information without leaving the list
+   - Helps preserve selections/lists for future work (via **Create a Tile**, as described)
+
+10. **Maintains context (independent of the main form view)**
+    - The main form can stay open while the side panel appears on the right
+    - Allows viewing important details without losing context
 
 
