@@ -133,42 +133,30 @@ The side panel:
 
 3. **Provides context when needed**
    - Shows related information next to the current record/list to support decisions
-   - Helps answer questions like:
-     - overdue invoices
-     - stock availability
-     - shipment/payment status (examples given)
+   - Helps answer everyday questions
 
 4. **Reduces mistakes**
-   - Helps users notice important information and related problems (examples given)
+   - Helps users notice important information and related problems
    - Surfaces risks before confirming/posting
 
 5. **Supports different roles without clutter**
-   - Role-specific information (sales vs logistics vs finance)
+   - Role-specific information 
    - Keeps the main form clean and simple instead of overloading it
 
 6. **Enables “next action” thinking**
-   - Suggests what you can do next (examples given):
-     - create invoice
-     - create shipment
+   - Suggests what you can do next
      - open related document
      - continue workflow
 
-7. **Scales with increasing complexity**
-   - As the business grows (more documents/checks/dependencies), it can scale by:
-     - adding insights
-     - adding relations
-     - adding automation hooks  
-     *(without redesigning screens, per the article)*
-
-8. **Improves usability**
+7. **Improves usability**
    - A one-click-away “drawer” of tools
-   - Lets users work within one screen with maximum use of the ERP.net toolset (as stated)
+   - Lets users work within one screen with maximum use of the ERP.net toolset 
 
-9. **Enhances navigation (especially in lists/navigators)**
+8. **Enhances navigation (especially in lists/navigators)**
    - Gives extra information without leaving the list
-   - Helps preserve selections/lists for future work (via **Create a Tile**, as described)
+   - Helps preserve selections/lists for future work 
 
-10. **Maintains context (independent of the main form view)**
+9. **Maintains context (independent of the main form view)**
     - The main form can stay open while the side panel appears on the right
     - Allows viewing important details without losing context
 
