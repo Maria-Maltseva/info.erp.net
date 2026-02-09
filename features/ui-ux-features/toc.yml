@@ -8,5 +8,7 @@
   href: presence.md  
 - name: Run UI Function
   href: run-ui-function.md
+- name: Side Panel
+  href: side-panel.md
 - name: Web View
   href: web-view.md
